@@ -51,4 +51,4 @@ The sentiment distribution of the entire dataset is plotted as a bar chart. The 
 
 ### Source
 
-![Financial News Headlines Data from Kaggle](https://www.kaggle.com/datasets/notlucasp/financial-news-headlines#%20Sentiment%20Analysis%20in%20Finance)
+[Financial News Headlines Data from Kaggle](https://www.kaggle.com/datasets/notlucasp/financial-news-headlines#%20Sentiment%20Analysis%20in%20Finance)
